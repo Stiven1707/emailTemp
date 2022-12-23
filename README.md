@@ -25,7 +25,7 @@ python main.py
 si todo sale bien, el resultado de ejecutar y recibir un correo seria el siguiente:
 ```
 jyk51a5@wuuvo.com
-{'id': 112439021, 'from': 'kevin.stiven.jimenez@gmail.com', 'subject': 'asunto', 'date': '2022-12-23 01:53:16'}
+{'id': 112439021, 'from': 'ejemplo@gmail.com', 'subject': 'asunto', 'date': '2022-12-23 01:53:16'}
 
 https://www.1secmail.com/api/v1/?action=readMessage&login=jyk51a5&domain=wuuvo.com&id=112439021
 TEXTO
