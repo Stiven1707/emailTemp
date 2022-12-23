@@ -44,5 +44,5 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autores ✒️
 
-* **Kevin Stiven Jimenez Perafan** - *Trabajo Inicial* - [villanuevand](https://github.com/Stiven1707)
+* **Kevin Stiven Jimenez Perafan** - *Trabajo Inicial* - [Stiven1707](https://github.com/Stiven1707)
 
